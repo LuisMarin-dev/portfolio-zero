@@ -8,3 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 this mf took me like 4 attempts just to push an initial commit 😂🤦‍♂️
+
+# Welcome to my Porfolio!
+This is not only the home for my projects but also my first attempt at 3D elements on a Web App. This project was built using:
+
+React.js, React Three Fiber (which is the library for ThreeJS in React), TailwindCSS and Framer Motion (a library for React animations).
+
+# 3D Elements
+Here I learned to Load, Creating and Customizing both 3D elements and geometries in different lightings.
